@@ -1,15 +1,10 @@
 <div align="center">
 
-# ✱7 · Asterisco Siete
+# Asterisco Siete
 
 ### POS release distribution
 
 Repository dedicated exclusively to **storing and distributing the versions** of the **Asterisco Siete** point-of-sale application.
-
-[![Latest version](https://img.shields.io/github/v/release/triple7ve/asterisco-siete-pos-releases?include_prereleases&label=version&color=6d28d9)](https://github.com/triple7ve/asterisco-siete-pos-releases/releases)
-[![Downloads](https://img.shields.io/github/downloads/triple7ve/asterisco-siete-pos-releases/total?label=downloads&color=0ea5e9)](https://github.com/triple7ve/asterisco-siete-pos-releases/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-blue)](#-installation)
-[![Auto-update](https://img.shields.io/badge/auto--update-electron--updater-2ea44f)](#-installation)
 
 </div>
 
@@ -36,11 +31,3 @@ Every published version is uploaded as a **GitHub Release**, and from there:
 3. Run the installer and follow the steps.
 
 Once installed, **you don't need to download manually again**: the application keeps itself up to date. ✨
-
----
-
-<div align="center">
-
-**Asterisco Siete** · POS — Made by [Triple7](https://github.com/triple7ve)
-
-</div>
